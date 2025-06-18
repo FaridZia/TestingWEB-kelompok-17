@@ -1,5 +1,5 @@
 # TestingWEB-kelompok-17
-Website Stock Barang telah diuji menggunakan tiga jenis pendekatan pengujian: White Box Testing, Black Box Testing, dan Grey Box Testing. Pengujian dilakukan untuk memastikan keluar masuk barang. fungsi Website dengan kebutuhan stock opname.
+Website Stock Barang telah diuji menggunakan tiga jenis pendekatan pengujian: White Box Testing, Black Box Testing, dan Grey Box Testing. Pengujian dilakukan untuk memastikan keluar masuk barang. fungsi Website menginput kebutuhan stock opname.
 
 <h3>1. White Box Testing (Pengujian dari sisi pengembang)</h3>
 Fokus pada struktur kode, alur logika, dan fungsi-fungsi internal dari aplikasi.
@@ -27,8 +27,8 @@ Dokumentasi uji tersedia di folder: 📁 /blackbox/ 📸 Disertai screenshot has
 
 ________________________________________________________________________________________
 
-⚫ 3. Grey Box Testing (Pengujian dari sisi integrasi logika & antarmuka)
-Menggabungkan pendekatan Black Box dan White Box.
+⚫ <h3>3. Grey Box Testing (Pengujian dari sisi integrasi logika & antarmuka)
+Menggabungkan pendekatan Black Box dan White Box.</h3>
 
 Menguji alur antar modul dan dependensi, seperti:
 
