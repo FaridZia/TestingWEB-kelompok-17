@@ -10,5 +10,16 @@ Dilakukan langsung terhadap kode program, terutama bagian:
 
 * CRUD Barang (module/stokbarang/)
 * CRUD Penjualan (module/penjualan/)
-* Tools: Manual checking
+  
+<h3>2. Black Box Testing (Pengujian dari sisi pengguna)</h3>
+Fokus pada fungsi aplikasi dari sisi CRUD.
+
+Menggunakan skenario uji berdasarkan input dan output:
+
+* Input valid dan tidak valid untuk form Barang.
+* Simulasi terhadap stok barang serta cek total barang dan nama.
+
+Tools: Manual testing via browser.
+
+Dokumentasi uji tersedia di folder: 📁 /blackbox/ 📸 Disertai screenshot hasil uji.
 
