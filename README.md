@@ -8,7 +8,7 @@ Menguji setiap cabang logika dan fungsi secara detail.
 
 Dilakukan langsung terhadap kode program, terutama bagian:
 
-CRUD Barang (module/stokbarang/)
-CRUD Penjualan (module/penjualan/)
-Tools: Manual checking
+<br>CRUD Barang (module/stokbarang/)</br>
+<br>CRUD Penjualan (module/penjualan/)</br>
+<br>Tools: Manual checking</br>
 
