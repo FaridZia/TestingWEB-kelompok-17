@@ -10,6 +10,8 @@ Dilakukan langsung terhadap kode program, terutama bagian:
 
 * CRUD Barang (module/stokbarang/)
 * CRUD Penjualan (module/penjualan/)
+
+________________________________________________________________________________________
   
 <h3>2. Black Box Testing (Pengujian dari sisi pengguna)</h3>
 Fokus pada fungsi aplikasi dari sisi CRUD.
@@ -23,3 +25,13 @@ Tools: Manual testing via browser.
 
 Dokumentasi uji tersedia di folder: 📁 /blackbox/ 📸 Disertai screenshot hasil uji.
 
+________________________________________________________________________________________
+
+⚫ 3. Grey Box Testing (Pengujian dari sisi integrasi logika & antarmuka)
+Menggabungkan pendekatan Black Box dan White Box.
+
+Menguji alur antar modul dan dependensi, seperti:
+
+* Integrasi form input barang → penyimpanan di database.
+* Data laporan ditarik dari stok.
+* Validasi input pengguna yang juga diverifikasi di backend.
